@@ -77,10 +77,10 @@
             <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WZa0bFDrUxoiRo7PPfeb-73" value="*(UUID)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="WZa0bFDrUxoiRo7PPfeb-29" vertex="1">
+        <mxCell id="WZa0bFDrUxoiRo7PPfeb-66" value="Categoria[0..1,N]: CatArticolo" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="WZa0bFDrUxoiRo7PPfeb-29" vertex="1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="WZa0bFDrUxoiRo7PPfeb-66" value="Categoria[0..1,N]: CatArticolo" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="WZa0bFDrUxoiRo7PPfeb-29" vertex="1">
+        <mxCell id="WZa0bFDrUxoiRo7PPfeb-73" value="&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="WZa0bFDrUxoiRo7PPfeb-29" vertex="1">
           <mxGeometry y="52" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="WZa0bFDrUxoiRo7PPfeb-36" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="WZa0bFDrUxoiRo7PPfeb-29" vertex="1">
@@ -774,13 +774,13 @@
           <mxGeometry x="700.79" y="30" width="105.79" height="240" as="geometry" />
         </mxCell>
         <mxCell id="fIkuuz6tE-7fz7-lc4vh-109" value="ISBN" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="fIkuuz6tE-7fz7-lc4vh-108">
-          <mxGeometry x="6.49" y="48" width="50" height="30" as="geometry" />
+          <mxGeometry x="27.89" y="48" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fIkuuz6tE-7fz7-lc4vh-110" value="DOI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="fIkuuz6tE-7fz7-lc4vh-108">
-          <mxGeometry x="11.49" y="78" width="40" height="30" as="geometry" />
+          <mxGeometry x="32.89" y="78" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fIkuuz6tE-7fz7-lc4vh-111" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;ISSN&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="fIkuuz6tE-7fz7-lc4vh-108">
-          <mxGeometry x="27.89" y="108" width="50" height="30" as="geometry" />
+          <mxGeometry x="27.900000000000002" y="108" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fIkuuz6tE-7fz7-lc4vh-112" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;PMID&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="fIkuuz6tE-7fz7-lc4vh-108">
           <mxGeometry x="27.899999999999977" y="138" width="50" height="30" as="geometry" />
