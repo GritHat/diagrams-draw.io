@@ -390,16 +390,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fIkuuz6tE-7fz7-lc4vh-103" value="&lt;u&gt;Autore&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#A3D478;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="429.35" y="1180" width="100" height="40" as="geometry" />
+          <mxGeometry x="429.35" y="1180" width="60.65" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fIkuuz6tE-7fz7-lc4vh-104" value="&lt;u&gt;Titolo&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#A3D478;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="284.56" y="1230" width="100" height="40" as="geometry" />
+          <mxGeometry x="320.35" y="1220" width="54.56" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fIkuuz6tE-7fz7-lc4vh-105" value="&lt;u&gt;Anno Pubblicazione&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#A3D478;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="449.14" y="1230" width="100" height="40" as="geometry" />
+          <mxGeometry x="449.14" y="1220" width="120.86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fIkuuz6tE-7fz7-lc4vh-106" value="&lt;u&gt;Editore&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#A3D478;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="310.26" y="1180" width="100" height="40" as="geometry" />
+          <mxGeometry x="350" y="1180" width="60.26" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fIkuuz6tE-7fz7-lc4vh-108" value="&lt;div&gt;&amp;lt;&amp;lt;enum&amp;gt;&amp;gt;&lt;br&gt;TCodice&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;fillColor=#D9553A;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="700.79" y="30" width="105.79" height="240" as="geometry" />
