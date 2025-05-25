@@ -198,10 +198,10 @@
         <mxCell id="meO55GGQu29Vi7JCb83L-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="meO55GGQu29Vi7JCb83L-3" target="meO55GGQu29Vi7JCb83L-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="meO55GGQu29Vi7JCb83L-56" value="Possiede" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="meO55GGQu29Vi7JCb83L-56" value="possiede" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-329" y="150" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="meO55GGQu29Vi7JCb83L-57" value="Posseduto" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="meO55GGQu29Vi7JCb83L-57" value="posseduto" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-439" y="150" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="meO55GGQu29Vi7JCb83L-58" value="desidera" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -219,7 +219,7 @@
         <mxCell id="meO55GGQu29Vi7JCb83L-64" value="Include" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-329" y="410" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="meO55GGQu29Vi7JCb83L-65" value="InclusoDa" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="meO55GGQu29Vi7JCb83L-65" value="inclusoDa" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-439" y="440" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="meO55GGQu29Vi7JCb83L-67" value="istanzaDi" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
